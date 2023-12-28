@@ -192,7 +192,7 @@ body {
 .hero-img {
 	position: relative;
 	padding: 10em 2em;
-	@include heroImages('img/hero-img-mini.jpg');
+	@include heroImages('../img/hero-img-mini.jpg');
 	text-align: center;
 	color: $pure-white;
 	overflow: hidden;
